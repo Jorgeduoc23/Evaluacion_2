@@ -1,0 +1,82 @@
+.fondop{
+    background-image: linear-gradient(rgb(173, 216, 230), pink);
+}
+
+.lol{
+    text-align: left;
+    width: 70%;
+    margin: 2.5%;
+}
+.xd{
+    text-align: left;
+    width: 70%;
+    margin-left: 2%;
+    margin-bottom: -4%;
+}
+
+#margin{
+    margin-top: 5%;
+}
+
+.lol2{
+    text-align: left;
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.marginleft{
+    margin-left: 1.5%;
+}
+
+.margincoment{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.boton{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+/*FORMULARIOS MID*/
+.mid{
+    width: 70%;
+}
+/*header*/
+
+.icon{
+    margin-left: 30%;
+
+
+}
+.logo{
+    width: 30%;
+   
+    text-align: center;
+}
+
+
+
+
+.inicio{
+    float: right;
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    color: rgba(246, 202, 69,0.6);
+  }
+
+
+.titulo2{
+    color: rgb(252, 252, 252);
+    font-family: 'Merienda', cursive;
+    text-shadow: 2px 2px 5px rgb(124, 97, 46);
+    background-image: src("img/");
+    font-size: 200%;
+    text-align: center;
+    margin: 10%;
+  
+}
+.iconohome{
+    text-align: center;
+}
