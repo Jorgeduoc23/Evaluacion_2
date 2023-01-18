@@ -62,7 +62,7 @@ function valForm(){
     return false;
   }
   else{
-    var expresion = (length = 0)
+    var expresion= /^[a-zA-ZñÑáéíóúÁÉÍÓÚ ]*$/;
     if (!expresion.test(vMensaje)){        
         errorColor("area_texto");
         errorcontenido("Debe escribir un mensaje");
